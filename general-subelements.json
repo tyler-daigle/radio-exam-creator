@@ -1,0 +1,82 @@
+﻿[
+  {
+    "subelementId": "G1",
+    "name": "COMMISSION'S RULES",
+    "numExamQuestions": 5,
+    "numGroups": 5,
+    "numTotalQuestions": 57,
+    "groups": ["G1A", "G1B", "G1C", "G1D", "G1E"]
+  },
+  {
+    "subelementId": "G2",
+    "name": "OPERATING PROCEDURES",
+    "numExamQuestions": 5,
+    "numGroups": 5,
+    "numTotalQuestions": 60,
+    "groups": ["G2A", "G2B", "G2C", "G2D", "G2E"]
+  },
+  {
+    "subelementId": "G3",
+    "name": "RADIO WAVE PROPAGATION",
+    "numExamQuestions": 3,
+    "numGroups": 3,
+    "numTotalQuestions": 37,
+    "groups": ["G3A", "G3B", "G3C"]
+  },
+  {
+    "subelementId": "G4",
+    "name": "AMATEUR RADIO PRACTICES",
+    "numExamQuestions": 5,
+    "numGroups": 5,
+    "numTotalQuestions": 60,
+    "groups": ["G4A", "G4B", "G4C", "G4D", "G4E"]
+  },
+  {
+    "subelementId": "G5",
+    "name": "ELECTRICAL PRINCIPLES",
+    "numExamQuestions": 3,
+    "numGroups": 3,
+    "numTotalQuestions": 40,
+    "groups": ["G5A", "G5B", "G5C"]
+  },
+  {
+    "subelementId": "G6",
+    "name": "CIRCUIT COMPONENTS",
+    "numExamQuestions": 2,
+    "numGroups": 2,
+    "numTotalQuestions": 24,
+    "groups": ["G6A", "G6B"]
+  },
+  {
+    "subelementId": "G7",
+    "name": "PRACTICAL CIRCUITS",
+    "numExamQuestions": 3,
+    "numGroups": 3,
+    "numTotalQuestions": 38,
+    "groups": ["G7A", "G7B", "G7C"]
+  },
+  {
+    "subelementId": "G8",
+    "name": "SIGNALS AND EMISSIONS",
+    "numExamQuestions": 3,
+    "numGroups": 3,
+    "numTotalQuestions": 43,
+    "groups": ["G8A", "G8B", "G8C"]
+  },
+  {
+    "subelementId": "G9",
+    "name": "ANTENNAS AND FEED LINES",
+    "numExamQuestions": 4,
+    "numGroups": 4,
+    "numTotalQuestions": 46,
+    "groups": ["G9A", "G9B", "G9C", "G9D"]
+  },
+  {
+    "subelementId": "G0",
+    "name": "ELECTRICAL AND RF SAFETY",
+    "numExamQuestions": 2,
+    "numGroups": 2,
+    "numTotalQuestions": 25,
+    "groups": ["G0A", "G0B"]
+  }
+]
